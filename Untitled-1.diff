@@ -1,0 +1,13 @@
+diff --git a/MDD_analysis.py b/MDD_analysis.py
+--- MDD_analysis.py
++++ MDD_analysis.py
+@@ -6,8 +6,9 @@
+ from pyecharts.charts import Line
+ 
+ # sdakfjaskfjadklfj@neowine1023
+ # @wenfeng
++# I want to submmite @neowine1023
+ def ReadData(file):
+     data = pd.read_csv(file)    
+     return data
+ 
